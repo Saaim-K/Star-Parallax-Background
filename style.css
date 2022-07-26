@@ -1,12 +1,12 @@
-body{
+body {
     margin: 0;
     padding: 0;
-    overflow: hidden; 
+    overflow: hidden;
+    background-color: #130f40;
+    background-image: linear-gradient(315deg, #130f40 0%, #000000 74%);
+    height: 100vh;
 }
 div{
-    background-color: black;
-    height: 100%;
-    width: 100%;
-    background-size: cover;
-    background-position: center center;
+    color: white;
+    font-size: 30px;
 }
