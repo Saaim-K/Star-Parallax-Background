@@ -14,5 +14,8 @@ div {
     align-items: center;
     width: 100%;
     position: relative;
-    top: 50%;
+    top: 48%;
+    font-size: 60px;
+    text-transform: uppercase;
+    font-family:  cursive;
 }
